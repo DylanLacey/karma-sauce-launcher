@@ -78,7 +78,7 @@ module.exports = function(config) {
 
 ### Example karma-sauce-launcher configs
 
-For example configs using this launcher (using Travis CI), check out this repo's [karma file](https://github.com/karma-runner/karma-sauce-launcher/tree/master/examples/karma.conf-ci.js), the [karma-sauce-example repo](https://github.com/saucelabs/karma-sauce-example) (which demonstrates how to use Sauce locally), or [AngularJS' Karma config](https://github.com/angular/angular.js/blob/master/karma-shared.conf.js).
+For example configs using this launcher (using Travis CI), check out this repo's [karma file](https://github.com/karma-runner/karma-sauce-launcher/tree/master/examples/karma.conf-ci.js), the [Sauce Karma-UnitTest Sample repo](https://github.com/saucelabs-sample-test-frameworks/JS-Karma-UnitTest) (which demonstrates how to use Sauce locally), or [AngularJS' Karma config](https://github.com/angular/angular.js/blob/master/karma-shared.conf.js).
 
 ## `sauceLabs` config properties shared across all browsers
 
